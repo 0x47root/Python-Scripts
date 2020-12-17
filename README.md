@@ -1,2 +1,2 @@
-# Simple-Web-Brute-Forcer
-A brute force python script to try all possible code permutations on a website.
+# Python Scripts
+Some useful Python scripts to use for hacking.
