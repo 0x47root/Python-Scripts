@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 
-r = requests.get('http://10.10.136.132:8000/static/index.html') 
+URL = input("Please enter the website URL: ")
+
+r = requests.get('URL') 
 
 soup = BeautifulSoup(r.text, "html.parser")
 
